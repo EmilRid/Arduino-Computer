@@ -8,7 +8,7 @@ Up and down buttons raise or lower the value of that individual bit that the cur
 Select button enters that byte as opcode into the system.
 
 # Opcodes:
-0101 = For loop test
+* 0101 = For loop test
 
 # Other Mentions
 This project is in it's starting phase and is heavily hard coded. 
