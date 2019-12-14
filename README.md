@@ -7,7 +7,8 @@ Left and right buttons move the cursor left and right.
 Up and down buttons raise or lower the value of that individual bit that the cursor is on. 
 Select button enters that byte as opcode into the system.
 
-opcodes:
+# Opcodes:
 0101 = For loop test
 
+# Other Mentions
 This project is in it's starting phase and is heavily hard coded. 
