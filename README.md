@@ -9,4 +9,5 @@ Select button enters that byte as opcode into the system.
 
 opcodes:
 0101 = For loop test
-More to come!
+
+This project is in it's starting phase and is heavily hard coded. 
